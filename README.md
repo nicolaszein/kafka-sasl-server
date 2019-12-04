@@ -2,7 +2,7 @@
 
 Docker Hub: https://hub.docker.com/r/nicolaszein/kafka-sasl-server
 
-Está imagem foi criada para facilitar o setup da explicação contextualizada no artigo link_aqui
+Está imagem foi criada para facilitar o setup da explicação contextualizada em um [artigo](https://medium.com/creditas-tech/desvendando-o-kafka-parte-2-autentica%C3%A7%C3%A3o-e-autoriza%C3%A7%C3%A3o-6e5a4f18950d)!
 
 :warning: **NÃO USAR EM AMBIENTE DE PRODUÇÃO** :warning:
 
